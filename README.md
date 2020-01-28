@@ -8,7 +8,7 @@
 -----
 
 + ¿Que es la __estadística__?
-
+ R.- Conjunto de metodos para planear experimentos, para obtener, organizar, resumir, presentar, analizar e interpretar datos, y para extraer conclusiónes con base a esos datos.
 
 + ¿Cómo se divide la __estadística__?
 
